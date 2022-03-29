@@ -1,0 +1,10 @@
+nav a img{
+    margin-left: -40px;
+    width: 100px;
+    height: 60px;
+    object-fit: contain;
+}
+
+.tarjetaEntrenadores p{
+    margin-top: -15px;
+}
